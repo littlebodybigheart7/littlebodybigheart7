@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @littlebodybigheart7
 - 👀 I’m interested in Music
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ~~C++~~ Java
 - 💞️ I’m looking to collaborate on Diverse projects
 - 📫 How to reach me https://www.linkedin.com/in/brunadearaújoandrade/
 - 😄 Pronouns: she/her
